@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AnalyticsApiApplication {
 
 	public static void main(String[] args) {
-		System.out.printf("**************RUNNING LOG WITH VERSION *********** : " + 2);
+		System.out.printf("**************RUNNING LOG WITH VERSION *********** : " + 3);
 		SpringApplication.run(AnalyticsApiApplication.class, args);
 	}
 
