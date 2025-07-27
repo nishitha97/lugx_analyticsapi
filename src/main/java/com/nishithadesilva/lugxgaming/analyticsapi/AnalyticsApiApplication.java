@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 public class AnalyticsApiApplication {
 
 	public static void main(String[] args) {
-		System.out.printf("**************RUNNING LOG WITH VERSION *********** : " + 7);
+		System.out.printf("**************RUNNING LOG WITH VERSION *********** : " + 8);
 		SpringApplication.run(AnalyticsApiApplication.class, args);
 	}
 }
